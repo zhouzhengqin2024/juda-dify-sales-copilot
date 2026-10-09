@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "catalog_version": "demo-2026-10-06-v1",
+  "simulation": true,
+  "currency": "CNY",
+  "billing_period": "year",
+  "products": [{"version": "专业版", "min_seats": 1, "max_seats": 50, "unit_price_cents": 60000}],
+  "included": ["软件坐席年费"],
+  "excluded": ["部署", "接口开发", "维护"],
+  "notice": "仅教学模拟，非正式报价；不代表满足客户全部需求。"
+}
